@@ -1,0 +1,11 @@
+tron/
+tron
+/tron
+/tron/
+/resources/
+resources
+resources/
+/resources
+*tron*/*
+*.zip
+
